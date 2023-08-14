@@ -1,4 +1,4 @@
-# iNeuBytes data SCience Internship task 1,2 and Major Project
+# iNeuBytes Data Science Internship Task 1,Task 2 and Major Project
 
 # Task-1 : Implement a Machine Learning Model For Classification Problem
 This file contains the code and resources for a machine learning project focused on heart disease classification. The goal of this project is to develop predictive models that can classify whether a person has heart disease based on various medical indicators and features.
